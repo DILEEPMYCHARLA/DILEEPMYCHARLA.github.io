@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AndroidAssignments</string>
-    <string name="hello_message">Namaskar!</string>
-    <string name="ButtonText">I\’m a button</string>
+    <string name="ButtonText">నేను ఒక బటన్‌ను</string>  <!-- Translated "I'm a button" -->
+    <string name="hello_message">నమస్కారం!</string>
+    <string name="login_text">ప్రవేశించండి</string>  <!-- Translated "Login" -->
 </resources>
